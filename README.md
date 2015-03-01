@@ -18,15 +18,13 @@ to install grunt and compass with susy framework you need a terminal (nodejs,rub
 open terminal and do :
 
 1- setup package.json.
-'npm -v 
-npm install
-npm update --system'
+'npm install'
 
 2- setup grunt command line.
 'npm install -g grunt-cli'
 
 3- setup compass.
-gem install compass
+'gem install compass'
 
 4- setup susy.
 'gem install susy'
