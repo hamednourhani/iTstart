@@ -7,7 +7,7 @@ also we have helped a lot by Bones from Eddie Machado.
 *License: WTFPL
 *License URI: http://sam.zoy.org/wtfpl/
 
-###Development :
+### Development steps:
 *to develop this theme first you need to install ruby and nodejs on your system.
 *https://rubygems.org
 *https://rubyinstaller.org
