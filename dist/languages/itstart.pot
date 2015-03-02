@@ -1,0 +1,280 @@
+# Copyright (C) 2015 Your Name Here
+# This file is distributed under the WTFPL.
+msgid ""
+msgstr ""
+"Project-Id-Version: Bones (Rename Me!) 1.7\n"
+"Report-Msgid-Bugs-To: http://itstar.ir/contact-us\n"
+"POT-Creation-Date: 2015-03-02 10:07:35+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: iTstar <info@itstar.ir>\n"
+"X-Generator: grunt-wp-i18n 0.5.0\n"
+
+#: 404.php:13
+msgid "Epic 404 - Article Not Found"
+msgstr ""
+
+#: 404.php:19
+msgid "The article you were looking for was not found, but maybe try looking again!"
+msgstr ""
+
+#: 404.php:31
+msgid "This is the 404.php template."
+msgstr ""
+
+#: archive-custom_type.php:33 page-custom.php:33 page.php:18
+msgid ""
+"Posted <time class=\"updated\" datetime=\"%1$s\" "
+"itemprop=\"datePublished\">%2$s</time> by <span class=\"author\">%3$s</span>"
+msgstr ""
+
+#: archive-custom_type.php:33 functions.php:216 taxonomy-custom_cat.php:33
+msgid "F jS, Y"
+msgstr ""
+
+#: archive-custom_type.php:58 archive.php:84 index.php:54 page-custom.php:80
+#: page.php:61 single-custom_type.php:80 single.php:34
+#: taxonomy-custom_cat.php:57
+msgid "Oops, Post Not Found!"
+msgstr ""
+
+#: archive-custom_type.php:61 archive.php:87 index.php:57 page-custom.php:83
+#: page.php:64 single-custom_type.php:83 single.php:37
+#: taxonomy-custom_cat.php:60
+msgid "Uh Oh. Something is missing. Try double checking things."
+msgstr ""
+
+#: archive-custom_type.php:64
+msgid "This is the error message in the custom posty type archive template."
+msgstr ""
+
+#: archive.php:11 taxonomy-custom_cat.php:23
+msgid "Posts Categorized:"
+msgstr ""
+
+#: archive.php:16
+msgid "Posts Tagged:"
+msgstr ""
+
+#: archive.php:25
+msgid "Posts By:"
+msgstr ""
+
+#: archive.php:30
+msgid "Daily Archives:"
+msgstr ""
+
+#: archive.php:35
+msgid "Monthly Archives:"
+msgstr ""
+
+#: archive.php:40
+msgid "Yearly Archives:"
+msgstr ""
+
+#: archive.php:52 index.php:17 post-formats/format-aside.php:10
+#: post-formats/format-audio.php:10 post-formats/format-chat.php:10
+#: post-formats/format-gallery.php:10 post-formats/format-image.php:10
+#: post-formats/format-link.php:10 post-formats/format-quote.php:10
+#: post-formats/format-status.php:10 post-formats/format-video.php:10
+#: post-formats/format.php:25 search.php:19
+msgid "Posted %1$s by %2$s"
+msgstr ""
+
+#: archive.php:90
+msgid "This is the error message in the archive.php template."
+msgstr ""
+
+#: comments.php:17 index.php:33
+msgid "<span>No</span> Comments"
+msgstr ""
+
+#: comments.php:17 index.php:33
+msgid "<span>One</span> Comment"
+msgstr ""
+
+#: comments.php:17 index.php:33
+msgid "<span>%</span> Comments"
+msgstr ""
+
+#: comments.php:27
+msgid "Reply"
+msgstr ""
+
+#: comments.php:38
+msgid "&larr; Previous Comments"
+msgstr ""
+
+#: comments.php:39
+msgid "More Comments &rarr;"
+msgstr ""
+
+#: comments.php:44
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:9
+msgid "Footer Links"
+msgstr ""
+
+#: functions.php:103
+msgid "600px by 150px"
+msgstr ""
+
+#: functions.php:104
+msgid "300px by 100px"
+msgstr ""
+
+#: functions.php:159
+msgid "Sidebar 1"
+msgstr ""
+
+#: functions.php:160
+msgid "The first (primary) sidebar."
+msgstr ""
+
+#: functions.php:215
+msgid "<cite class=\"fn\">%1$s</cite> %2$s"
+msgstr ""
+
+#: functions.php:215
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:221
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: header.php:62
+msgid "The Main Menu"
+msgstr ""
+
+#: index.php:37
+msgid "filed under"
+msgstr ""
+
+#: index.php:39 page-custom.php:68 post-formats/format-aside.php:47
+#: post-formats/format-audio.php:47 post-formats/format-chat.php:47
+#: post-formats/format-gallery.php:47 post-formats/format-image.php:47
+#: post-formats/format-link.php:50 post-formats/format-quote.php:50
+#: post-formats/format-status.php:47 post-formats/format-video.php:47
+#: post-formats/format.php:66 search.php:40
+msgid "Tags:"
+msgstr ""
+
+#: index.php:60
+msgid "This is the error message in the index.php template."
+msgstr ""
+
+#: page-custom.php:57 page.php:41 post-formats/format-aside.php:38
+#: post-formats/format-audio.php:38 post-formats/format-chat.php:38
+#: post-formats/format-gallery.php:38 post-formats/format-image.php:38
+#: post-formats/format-link.php:38 post-formats/format-quote.php:38
+#: post-formats/format-status.php:38 post-formats/format-video.php:38
+#: post-formats/format.php:54 single-custom_type.php:57
+msgid "Pages:"
+msgstr ""
+
+#: page-custom.php:86
+msgid "This is the error message in the page-custom.php template."
+msgstr ""
+
+#: page.php:67
+msgid "This is the error message in the page.php template."
+msgstr ""
+
+#: post-formats/format-link.php:48 post-formats/format-quote.php:48
+#: post-formats/format.php:64 search.php:37
+msgid "Filed under: %1$s"
+msgstr ""
+
+#: search.php:8
+msgid "Search Results for:"
+msgstr ""
+
+#: search.php:30
+msgid "Read more &raquo;"
+msgstr ""
+
+#: search.php:54
+msgid "Sorry, No Results."
+msgstr ""
+
+#: search.php:57
+msgid "Try your search again."
+msgstr ""
+
+#: search.php:60
+msgid "This is the error message in the search.php template."
+msgstr ""
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:6
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:16
+msgid "This is a widget ready area. Add some and they will appear here."
+msgstr ""
+
+#: single-custom_type.php:34 taxonomy-custom_cat.php:33
+msgid ""
+"Posted <time class=\"updated\" datetime=\"%1$s\" "
+"itemprop=\"datePublished\">%2$s</time> by <span "
+"class=\"author\">%3$s</span> <span class=\"amp\">&</span> filed under %4$s."
+msgstr ""
+
+#: single-custom_type.php:66
+msgid "Custom Tags:"
+msgstr ""
+
+#: single-custom_type.php:86
+msgid "This is the error message in the single-custom_type.php template."
+msgstr ""
+
+#: single.php:40
+msgid "This is the error message in the single.php template."
+msgstr ""
+
+#: taxonomy-custom_cat.php:39
+msgid "Read More &raquo;"
+msgstr ""
+
+#: taxonomy-custom_cat.php:63
+msgid "This is the error message in the taxonomy-custom_cat.php template."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Bones (Rename Me!)"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.themble.com/bones"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This site was built using the Bones Development Theme. For more information "
+"about Bones or to view documentation, you can visit the <a "
+"href=\"https://github.com/eddiemachado/bones/issues\" title=\"Bones "
+"Issues\">Bones Issues</a> page on Github. You'll want to customize this for "
+"your clients with your own information."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Your Name Here"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.yoururlhere.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Custom Page Example"
+msgstr ""

@@ -1,14 +1,14 @@
 {
-  "name": "iTstart",
+  "name": "iTStart",
   "version": "1.0.0",
-  "description": "New wordpress Starter theme using compass,susy and grunt",
+  "description": "New wordpress Starter theme using compass susy and grunt",
   "main": "index.php",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hamednourhani/wordpress-starter-theme-by-compass--grunt/commit/8ff2ec909471c721d951173b0c42b41d47b11510"
+    "url": "https://github.com/hamednourhani/iTstart"
   },
   "keywords": [
     "wordpress"
@@ -25,7 +25,6 @@
     "grunt-contrib-watch": "^0.6.1",
     "grunt-curl": "*",
     "grunt-phpdocumentor": "*",
-    "grunt-wp-i18n": "~0.5.0",
-    
+      "grunt-wp-i18n": "~0.5.0"
   }
 }

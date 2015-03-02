@@ -13,7 +13,7 @@ also we have helped a lot by Bones from Eddie Machado.
 *https://rubyinstaller.org
 *https://nodejs.org
 
-###package instalation.
+### package instalation.
 to install grunt and compass with susy framework you need a terminal (nodejs,ruby, windows or mac terminal).
 open terminal and do :
 

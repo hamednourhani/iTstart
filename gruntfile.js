@@ -108,7 +108,7 @@ module.exports = function(grunt) {
 	            }
 	          }]
 	      },
-		   dist: {
+		   readme: {
 		        src: 'dist/readme.txt',
 		        dest: 'README.md'
 		    }//dist
@@ -128,13 +128,17 @@ module.exports = function(grunt) {
 		    }
 		},//cUrl
 		
-		phpdocumentor: {
-		    dist: {
-		        options: {
-		            ignore: 'node_modules'
-		        }
-		    }
-		},//phpdocumentor
+		
+	    phpdocumentor: {
+	        dist: {
+	            options: {
+	                ignore: ['node_modules'],
+	                directory : 'dist',
+	                target : 'docs'
+	            }
+	        }
+	    },//phpdocumentor
+
 
 		img: {
          
@@ -157,12 +161,16 @@ module.exports = function(grunt) {
     			files : ['dist/*.html']
     		},//html
     		sass : {
-    			files : ['dist/sass/**/*.scss'],
+    			files : ['dist/css/sass/**/*.scss'],
     			tasks : ['compass:dev','compass:dist','copy:css','clean']
     		},
     		php : {
     			files : ['dist/**/*.php'],
     			tasks : ['makepot']
+    		},
+    		readme: {
+    			files : ['dist/readme.txt'],
+    			tasks : ['copy:readme']
     		}
     	}//watch
   

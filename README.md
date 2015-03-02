@@ -7,13 +7,13 @@ also we have helped a lot by Bones from Eddie Machado.
 *License: WTFPL
 *License URI: http://sam.zoy.org/wtfpl/
 
-###Development :
+### Development steps:
 *to develop this theme first you need to install ruby and nodejs on your system.
 *https://rubygems.org
 *https://rubyinstaller.org
 *https://nodejs.org
 
-###package instalation.
+### package instalation.
 to install grunt and compass with susy framework you need a terminal (nodejs,ruby, windows or mac terminal).
 open terminal and do :
 
@@ -41,4 +41,3 @@ have any issues feel free to contact .
 
 Hamed Nourhani
 info@itstar.ir
-
